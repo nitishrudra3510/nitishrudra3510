@@ -2,7 +2,7 @@
 
 # Hi, I am Nitish 👋
 
-![Profile Views](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joberty.com%2Fblog%2Fsoftware-engineer-salary-germany%2F&psig=AOvVaw18rx-iqXb6Lom_QrL6LWSp&ust=1719648690471000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj7m_Ds_YYDFQAAAAAdAAAAABAE)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
 
 🌱 I've been on a fascinating journey through the world of data, where I've learned to explore patterns and draw insights that matter.
 
