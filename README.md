@@ -1,4 +1,4 @@
-![Banner Image](https://www.google.com/imgres?q=cycle%20of%20program%20of%20data%20science%20best%20images&imgurl=https%3A%2F%2Fwww.simplilearn.com%2Fice9%2Ffree_resources_article_thumb%2Fwhat_is_Data_Science.jpg&imgrefurl=https%3A%2F%2Fwww.simplilearn.com%2Ftutorials%2Fdata-science-tutorial%2Fwhat-is-data-science&docid=kGxpUZnkJ7NGaM&tbnid=wFBBejLZIySR1M&vet=12ahUKEwjNuJby6_2GAxVvyDgGHaAeBmcQM3oECF8QAA..i&w=848&h=477&hcb=2&ved=2ahUKEwjNuJby6_2GAxVvyDgGHaAeBmcQM3oECF8QAA)
+![Banner Image](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg)
 
 # Hi, I am Nitish 👋
 
