@@ -29,10 +29,11 @@ Happy coding! 🚀💻
 
 ## 🌐 Social Media Handles!
 
-[![LinkedIn](https://www.linkedin.com/in/nitish-kumar0023/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar0023/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](your-hackerrank-url)
-[![Stack Overflow]([https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](your-stackoverflow-url](https://stackoverflow.com/users/20600264/nitish-kumar))
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20600264/nitish-kumar)
+
 
 ## 💻 Languages:
 
