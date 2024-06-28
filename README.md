@@ -2,8 +2,6 @@
 
 # Hi, I am Nitish 👋
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
-
 🌱 I've been on a fascinating journey through the world of data, where I've learned to explore patterns and draw insights that matter.
 
 💼 My GitHub is a collection of my adventures in data science. You'll find projects that showcase my knack for understanding numbers, creating statistical models, and applying them to solve real-world puzzles.
