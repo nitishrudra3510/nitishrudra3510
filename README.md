@@ -42,12 +42,7 @@ Happy coding! 🚀💻
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[Exploratory Data Analysis with Python](https://github.com/your-username/repository-name/blob/main/notebooks/Exploratory_Data_Analysis.ipynb)
-[Machine Learning Model Training](https://github.com/your-username/repository-name/blob/main/notebooks/Machine_Learning_Model_Training.ipynb)
-[Deep Learning Model Implementation](https://github.com/your-username/repository-name/blob/main/notebooks/Deep_Learning_Model_Implementation.ipynb)
-[Data Visualization Examples](https://github.com/your-username/repository-name/blob/main/notebooks/Data_Visualization_Examples.ipynb)
-[Statistical Analysis in R](https://github.com/your-username/repository-name/blob/main/notebooks/Statistical_Analysis_in_R.ipynb)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 <!-- Add more badges as needed -->
 ## 📊 GitHub Stats:
