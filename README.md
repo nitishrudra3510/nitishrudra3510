@@ -33,6 +33,21 @@ Happy coding! 🚀💻
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[Exploratory Data Analysis with Python](https://github.com/your-username/repository-name/blob/main/notebooks/Exploratory_Data_Analysis.ipynb)
+[Machine Learning Model Training](https://github.com/your-username/repository-name/blob/main/notebooks/Machine_Learning_Model_Training.ipynb)
+[Deep Learning Model Implementation](https://github.com/your-username/repository-name/blob/main/notebooks/Deep_Learning_Model_Implementation.ipynb)
+[Data Visualization Examples](https://github.com/your-username/repository-name/blob/main/notebooks/Data_Visualization_Examples.ipynb)
+[Statistical Analysis in R](https://github.com/your-username/repository-name/blob/main/notebooks/Statistical_Analysis_in_R.ipynb)
+
 
 <!-- Add more badges as needed -->
 ## 📊 GitHub Stats:
