@@ -1,6 +1,6 @@
 ![Banner Image](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg)
 
-# Hi there 👋                                                                                                        [![](https://visitcount.itsvg.in/api?id=nitishrudra3510&icon=0&color=3)](https://visitcount.itsvg.in)
+# Hi, I am Nitish Kumar 👋                                                                                                        [![](https://visitcount.itsvg.in/api?id=nitishrudra3510&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
 🌱 I've been on a fascinating journey through the world of data, where I've learned to explore patterns and draw insights that matter.
